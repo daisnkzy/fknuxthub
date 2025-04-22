@@ -80,4 +80,9 @@ export default defineNuxtConfig({
 	},
 	// https://devtools.nuxt.com
 	devtools: { enabled: true },
+	nitro: {
+		experimental: {
+			tasks: true,
+		},
+	},
 });

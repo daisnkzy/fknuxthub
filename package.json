@@ -18,7 +18,7 @@
     "@nuxt/devtools": "1.6.0",
     "@nuxt/fonts": "^0.10.2",
     "@nuxt/ui": "^2.19.2",
-    "@nuxthub/core": "^0.8.7",
+    "@nuxthub/core": "^0.8.24",
     "@t3-oss/env-nuxt": "^0.11.1",
     "nanoid": "^5.0.8",
     "nuxt": "^3.14.159",
